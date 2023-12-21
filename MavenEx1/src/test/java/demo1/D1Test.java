@@ -8,5 +8,6 @@ public class D1Test
 	public void d1Test()
 	{
 		System.out.println("Hello");
+		System.out.println("Hi");
 	}
 }
